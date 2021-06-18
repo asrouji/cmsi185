@@ -1,5 +1,5 @@
 # CMSI 185 @ LMU
-Assignments and projects I completed in CMSI 185: Computer Programming at LMU
+**Assignments and projects I completed in CMSI 185: Computer Programming at LMU**
 
 **[Zombies Among Us](https://github.com/asrouji/zombies-among-us)**: 2D Zombie apocalypse game with scaling level difficulty, written in p5.js
 
@@ -13,4 +13,4 @@ Assignments and projects I completed in CMSI 185: Computer Programming at LMU
 
 **[Base Converter](https://github.com/asrouji/base-converter)**: Basic web app to convert between Decimal and Hexadecimal
 
-See [here](https://github.com/asrouji/LMU) to browse coursework for other courses
+**See [here](https://github.com/asrouji/LMU) to browse coursework for other courses**
