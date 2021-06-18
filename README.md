@@ -5,9 +5,9 @@
 
 **[Flappy Bird](https://github.com/asrouji/flappy-bird)**: p5.js remake of the game "Flappy Bird"
 
-**[Ufo Lander](https://github.com/asrouji/ufo-lander)**: 3D animation of a UFO landing, written in p5.js
+**[UFO Lander](https://github.com/asrouji/ufo-lander)**: 3D animation of a UFO landing, written in p5.js
 
-**[Pokémon Info](https://github.com/asrouji/flappy-bird)**: Implements the PokéAPI to fetch and display Pokémon statistics
+**[Pokémon Info](https://github.com/asrouji/pokemon-info)**: Implements the PokéAPI to fetch and display Pokémon statistics
 
 **[Days Between Dates](https://github.com/asrouji/days-between-dates)**: Basic web app to display the number of days between two dates
 
